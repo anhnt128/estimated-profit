@@ -2,6 +2,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Mageplus_EstimatedProfit',
+    'Devopsmanoj_EstimatedProfit',
     __DIR__
 );

@@ -1,6 +1,6 @@
 <?php
 
-namespace Mageplus\EstimatedProfit\Setup;
+namespace Devopsmanoj\EstimatedProfit\Setup;
 
 use Magento\Eav\Setup\EavSetupFactory;
 use Magento\Framework\Setup\InstallDataInterface;
